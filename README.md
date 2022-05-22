@@ -8,7 +8,7 @@
 <a href="https://twitter.com/ikumaraniket" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow?style=social"></a>
 <br/><br/>
 <h3>Connect with me on LinkedIn</h3>
-<a href="https://www.linkedin.com/in/ikumaraniket/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ikumaraniket" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <br/><br/>
 
 
