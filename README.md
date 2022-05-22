@@ -1,4 +1,4 @@
-<h1>Hi there 👋🏻 Welcome to my Github  Profile 🏻‍♂️</h1>
+<h1>Hi there 👋🏻 Welcome to my Github  Profile </h1>
 
 <p>I'm Aniket, an <b>IAM Implementation Engineer </b> @KPMG </a> based in Bengaluru, India.
 <br/>
