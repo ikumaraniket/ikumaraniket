@@ -1,6 +1,6 @@
 <h1>Hi there 👋🏻 Welcome to my Github  Profile </h1>
 
-<p>I'm Aniket, an <b>IAM Implementation Engineer </b> @KPMG </a> based in Bengaluru, India.
+<p>I'm @<a href="https://bio.link/ikumaraniket">Aniket, an <b>IAM Implementation Engineer </b> @KPMG </a> based in Bengaluru, India.
 <br/>
 <h3>Don't forget to follow me on Twitter</h3>
 <a href="https://twitter.com/ikumaraniket" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ikumaraniket?style=social"></a>
