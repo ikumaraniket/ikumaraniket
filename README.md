@@ -1,9 +1,7 @@
 <h1>Hi there 👋🏻 Welcome to my Github  Profile </h1>
-<p align="right">
-<kbd>
-<img src="https://github.com/ikumaraniket/ikumaraniket/blob/main/coding.gif" alt="Hello Devs" width="350" height="250"/>
-</kbd>
-</p>
+<div>
+<img align="right" src="https://github.com/ikumaraniket/ikumaraniket/blob/main/coding.gif" alt="Hello Devs" width="350" height="250"/>
+</div>
 
 <p>I'm @<a href="https://bio.link/ikumaraniket">Aniket</a>, an <b>IAM Implementation Engineer </b> @KPMG based in Bengaluru, India.
 <br/>
