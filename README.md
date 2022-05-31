@@ -1,5 +1,5 @@
-<h1>Hi there 👋🏻 Welcome to my Github  Profile </h1><p align="right"> 
-<img src="https://komarev.com/ghpvc/?username=ikumaraniket" alt="ikumaraniket" /> </p>
+<h1>Hi there 👋🏻 Welcome to my Github  Profile </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikumaraniket" alt="ikumaraniket" /> </p>
 
 
 <p>I'm @<a href="https://bio.link/ikumaraniket">Aniket</a>, an <b>IAM Implementation Engineer </b> @KPMG based in Bengaluru, India.
