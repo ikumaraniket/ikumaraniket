@@ -7,7 +7,7 @@
   <a href="https://github.com/ikumaraniket">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikumaraniket&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
-<h3>To Connect:</h3>
+<h3>My Social Links:</h3>
 <a href="https://www.linkedin.com/in/ikumaraniket" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/ikumaraniket" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/ikumaraniket?style=social"></a>
 <br/><br/>
