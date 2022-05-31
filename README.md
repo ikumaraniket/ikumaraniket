@@ -4,7 +4,7 @@
 
 <p>I'm @<a href="https://bio.link/ikumaraniket">Aniket</a>, an <b>IAM Implementation Engineer </b> @KPMG based in Bengaluru, India.
 <br/>
-<p align="center">
+<p align="left">
 <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ikumaraniket&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
 <br>
 
