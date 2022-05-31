@@ -5,7 +5,6 @@
 <div>
   <a href="https://github.com/ikumaraniket">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ikumaraniket&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikumaraniket&layout=compact&langs_count=6"/>
 </div>
 <h3>Connect with me on LinkedIn</h3>
 <a href="https://www.linkedin.com/in/ikumaraniket" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
