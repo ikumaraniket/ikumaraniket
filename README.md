@@ -1,6 +1,6 @@
 <h1>Hi there 👋🏻 Welcome to my Github  Profile </h1>
 <img align="right" src="https://github.com/ikumaraniket/ikumaraniket/blob/main/coding-freak.gif" alt="Hello Devs" width="360" height="380"/>
-<p>I'm @<a href="https://bio.link/ikumaraniket">Aniket</a>, an <b>IAM Implementation Engineer </b> @KeyData Associates based in Toronto, Canada.
+<p>I'm <a href="https://bio.link/ikumaraniket">Aniket</a>, an <b>IAM Implementation Engineer </b> @KeyData_Associates based in Toronto, Canada.
 <br/>
 <div>
   <a href="https://github.com/ikumaraniket">
